@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vjccpass.ideasomeplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vjccpass.ideasomeplugin.MyBundle
 
 class MyApplicationService {
 
